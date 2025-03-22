@@ -91,21 +91,4 @@ for article in data.get('app_msg_list', []):
 - 本脚本仅供技术学习交流使用，严禁商用
 
 ---
-
-## 📮 联系方式 | Contact Me
-
-| 类型 | 信息 |
-|------|------|
-| 📧 邮箱 | yourname@example.com |
-| 💬 微信 | ![微信二维码](https://yourdomain.com/qrcode.png) |
-| 🔗 LinkedIn | [职业档案](https://linkedin.com/in/YourLinkedIn) |
-
----
-
-## 💬 技术格言
-
-> 🛠 Code with Precision · Build with Passion  
-> 💬 技术连接你我 · 分享成就价值  
-> 🚀 Engineering elegant systems, one commit at a time
-
 > **“愿每一行代码都通向未来，每一次交流都激发灵感。”**
